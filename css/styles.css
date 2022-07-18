@@ -35,21 +35,3 @@ img:hover {
 	justify-content: center;
 	grid-gap: 20px;
 }
-
-/* .grid {
-	max-width: 1020px;
-	display: grid;
-	grid-template-columns: repeat(3, minmax (200px, 1fr));
-  grid-template-rows: 100px 200px;
-  grid-gap: 20px;
-} */
-/*
-.gallery {
-  display: grid;
-  grid-template-columns: repeat (auto-fill, minmax(200px, 1fr));
-  row-gap: 30px;
-  -moz-column-gap: 10px;
-       column-gap: 10px;
-  justify-items: center;
-  margin-left: 30px;
-  margin-right: 30px; */
